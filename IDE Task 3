@@ -94,3 +94,13 @@ Output:
 2584
 4181
 6765
+
+
+
+
+int a=0,i;
+	for(i=1;i<6;i++)
+	{ 
+	    a=a*10+7;
+	    Console.WriteLine(a);
+	}
