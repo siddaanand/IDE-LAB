@@ -29,7 +29,7 @@ namespace myApp
     {
         static void Main()
         {
-            Console.WriteLine("Hello Khoushik!");
+            Console.WriteLine("Hello Anand!");
         }
     }
 }
@@ -46,7 +46,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Anand";
             Console.WriteLine("Hello " + name + "!");
         }
     }
@@ -64,7 +64,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Anand";
             Console.WriteLine($"Hello {name}!");
         }
     }
@@ -82,7 +82,7 @@ namespace myApp
     {
         static void Main()
         {
-            var name = "Khoushik";
+            var name = "Anand";
             Console.WriteLine($"Hello {name.ToUpper()}!");
         }
     }
@@ -100,7 +100,7 @@ namespace myApp
     {
         static void Main()
         {
-            var names = new List<string> {"Khoushik","Felipe","Emillia"};
+            var names = new List<string> {"Anand","Felipe","Emillia"};
             foreach(var name in names)
             {
                 Console.WriteLine($"Hello {name.ToUpper()}!");
